@@ -6,11 +6,10 @@ html {
 header {
 	background-image: url("https://miro.medium.com/max/2400/1*Xkgj-E_ZL7Cgnxbh9ODbPA.png");
 	width: 80%;
-	height: 200px;
+	height: 100px;
 	margin:auto;
 	color: black;
 	text-align: center;
-	vertical-align: middle;
 }
 
 body {

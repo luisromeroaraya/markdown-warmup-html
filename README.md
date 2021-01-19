@@ -10,4 +10,5 @@ In this part of the HTML and CSS course I will acquaint myself with the basics o
 - [ ] 05 - [vcard](https://github.com/becodeorg/BXL-Swartz-4-27/blob/master/1.The-Field/4.HTML-CSS/introduction/05-vcard.adoc)
 - [ ] 06 - [Star Wars](https://github.com/becodeorg/BXL-Swartz-4-27/blob/master/1.The-Field/4.HTML-CSS/introduction/06-star-wars.adoc)
 
-Personal website link: https://luisromeroaraya.github.io/markdown-warmup-html/
+Markdown to HTML personal page link: https://luisromeroaraya.github.io/markdown-warmup-html/
+Error 404 personal page link: https://luisromeroaraya.github.io/404-page/
